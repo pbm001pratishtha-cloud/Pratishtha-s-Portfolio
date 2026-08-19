@@ -1,1 +1,1 @@
-# Pratishtha-s-Portfolio
+# Pratishtha Portfolio
