@@ -480,16 +480,20 @@
       </div>
 
       <div class="film-wrap">
-        <video controls playsinline preload="metadata" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 10px; background: #000;">
-  <source src="intro-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+        <div class="vid-box">
+          <iframe 
+            src="https://drive.google.com/file/d/1kSx5IZuLYAjspJtiVohS22zzRSO8f174/preview" 
+            title="Pratishtha Kiran - Video Pitch" 
+            allow="autoplay" 
+            allowfullscreen 
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; border-radius: 10px;">
+          </iframe>
+        </div>
         <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; font-size: 0.85rem; color: var(--text-muted);">
           <span>⏱️ Length: 48 seconds</span>
           <a href="mailto:pratishthakiranvt@gmail.com" style="color: var(--accent-light); text-decoration: underline;">Request full case walk-through</a>
         </div>
-      </div>
-    </div>
+      </div> 
   </section>
 
   <!-- 03 Résumé & Cover Letter -->
